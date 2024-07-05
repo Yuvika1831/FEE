@@ -1,1 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book review</title>
+</head>
+<body>
+    <br>
+    <center>
+       <h1> BOOK REVIEWS </h1> 
+       <h4> This blog contains 3 book reviews</h4>
+    </center>
+    <hr>
+    <div class="blog1">
+        <table>
+            <thead><center><h3>Ralph Ellison's The Invisible Man:</h3></thead></center>
+            <tr>
+                <td>
+                  
+                    <img src="https://ravingreader.wordpress.com/wp-content/uploads/2020/02/14002331853-1.jpg?w=631" alt="" width="200px">
 
+                </td>
+                <td><center>
+                    <p>An extremely powerful story of a young Southern Negro, from his late high school days through three years of college to his life in Harlem.
+                        His early training prepared him for a life of humility before white men, but through injustices- large and small, he came to realize that he was an "invisible man". People saw in him only a reflection of their preconceived ideas of what he was, denied his individuality, and ultimately did not see him at all. This theme, which has implications far beyond the obvious racial parallel, is skillfully handled. The incidents of the story are wholly absorbing. The boy's dismissal from college because of an innocent mistake, his shocked reaction to the anonymity of the North and to Harlem, his nightmare experiences on a one-day job in a paint factory and in the hospital, his lightning success as the Harlem leader of a communistic organization known as the Brotherhood, his involvement in black versus white and black versus black clashes and his disillusion and understanding of his invisibility- all climax naturally in scenes of violence and riot, followed by a retreat which is both literal and figurative. Parts of this experience may have been told before, but never with such freshness, intensity and power.
+                        This is Ellison's first novel, but he has complete control of his story and his style. Watch it.</p>
+                        </center>
+                </td>
+            </tr>
+        </table>
+        <hr>
+        <table>
+            <thead><center><h3>Angie Thomas The Hate U Give:</h3></center></thead>
+            <tr>
+                <td>
+                    <p> <center>
+                         5 stars! I can't imagine how challenging it would be to tackle the voice of a movement like Black 
+                        Lives Matter, but I do know that Thomas did it with a finesse only a talented author like herself possibly could.
+                         With an unapologetically realistic delivery packed with emotion, The Hate U Give is a crucially important portrayal of
+                          the difficulties minorities face in our country every single day. I have no doubt that this book will be met with resistance by s
+                          ome (possibly many) and slapped with a “controversial” label, but if you’ve ever wondered what it was like to walk in a POC’s shoes,
+                           then I feel like this is an unflinchingly honest place to start.
+In Angie Thomas's debut novel, Starr Carter bursts on to the YA scene with both heart-wrecking and heartwarming sincerity. This author is definitely one to watch. The hype around this book has been unquestionable and, admittedly, that made me both eager to get my hands on it and terrified to read it. I mean, what if I was to be the one person that didn’t love it as much as others? (That seems silly now because of how truly mesmerizing THUG was in the most heartbreakingly realistic way.) However, with the relevancy of its summary in regards to the unjust predicaments POC currently face in the US, I knew this one was a must-read, so I was ready to set my fears aside and dive in. That said, I had an altogether more personal, ulterior motive for wanting to read this book. […]
+</center>     </p>
+                </td>
+                <td>
+                    <img src="https://www.peoplesworld.org/wp-content/uploads/2018/10/https_2F2Fblueprint-api-production.s3.amazonaws.com2Fuploads2Fcard2Fimage2F4241342Fd3fda496-b78c-4408-a645-41192052398c.jpg" alt="" width="350">
+                </td>
+            </tr>
+        </table>
+        <hr>
+        <table>
+            <thead><center><h3>David Grann's Killers of the Flower Moon:</h3></thead></center>
+            <tr>
+                <td>
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7lQqLd5dC2urCkOw2PkW5SHAZssVIqY5DeG98_ead7WBO-IcTwifkVrYow2HoDc2WBdI&usqp=CAU" alt="" width="300px">
+                </td>
+                
+                <td>
+                  <center> <p>The arc of David Grann's career reminds one of a software whiz-kid or a latest-thing talk-show host — certainly not an investigative reporter, even if he is one of the best 
+                        in the business. The newly released movie of his first book, “The Lost City of Z,” is generating all kinds of Oscar talk, and now comes the release of his second book, “Killers
+                         of the Flower Moon: The Osage Murders and the Birth of the FBI,” the film rights to which have already been sold for $5 million in what one industry journal called the “biggest and wildest book rights auction in memory.”
+                        Grann deserves the attention. 
+                         
+                         from any lease arrangement. For a while, the fail-safes did their job, and the Osage got rich — diamond-ring and chauffeured-car and imported-French-fashion rich — following which quite a large group of white men started to work like devils to separate the Osage from their money. And soon enough, and predictably enough, this work involved murder. 
+                         Here in Jazz Age America’s most isolated of locales, dozens or even hundreds of Osage in possession of great fortunes — and of the potential for even greater fortunes in the future — were dispatched by poison, by gunshot and by dynamite.</p>
+                        </center> 
+                        </td>
+            </tr>
+            
+        </table>
+        <hr>
+        
+    </div>
+    <h3> References:</h3><ul>
+        <li>
+    <a href="google.com">google.com</a></li>
+    <li><a href="https://reedsy.com/discovery/blog">reedsy.com</a></li>
+    </ul>
+
+    
+</body>
+</html>
